@@ -1,5 +1,6 @@
-# Timer
 
+# Timer
+https://frania2201.github.io/Timer/
 
 This project is a basic app for time measurement.
 ## Screenshots
